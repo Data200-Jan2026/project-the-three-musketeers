@@ -3,11 +3,11 @@
 ## Team Information
 
 ### Team Name
-*Replace this with your team name*
+*The Three Musketeers*
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
+1. *Sushant Ale Magar (samExecu)*
+2. *Bikram Timalsina (timalsinab495-crypto)*
 3. *Member 3 Name (GitHub Username)*
 
 ### Task Division

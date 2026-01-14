@@ -8,9 +8,9 @@
 ### Team Members
 1. *Sushant Ale Magar (samExecu)*
 2. *Bikram Timalsina (timalsinab495-crypto)*
-3. *Member 3 Name (GitHub Username)*
+3. *Rojan Tamang (Rojankay)*
 
 ### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+- **Member 1**: *Data cleaning, preprocessing, and exploratory data analysis (EDA).*
+- **Member 2**: *Statistical model creation, hypothesis testing, and validation.*
+- **Member 3**: *Python application development, report writing, and presentation preparation.*

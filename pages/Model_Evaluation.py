@@ -72,7 +72,16 @@ if rf_acc is not None:
     st.divider()
 
     # --- SECTION 2: STATISTICAL SIGNIFICANCE (P-Values) ---
-    st.subheader("2. Statistical Significance (P-Values)")
+    st.subheader("2. Statistical Significance (P-Values) & Hypothesis Testing")
+
+    st.markdown("###Hypothesis Definition")
+    st.markdown("""
+    To validate our model, we established the following statistical hypotheses:
+
+    *   **Null Hypothesis ($H_0$):** There is **no significant relationship** between the clinical variables (Glucose, HbA1c, BMI, Age) and diabetes. Any patterns are due to random chance.
+    *   **Alternative Hypothesis ($H_1$):** The selected health features are **statistically significant predictors** of diabetes risk.
+    """)
+
     st.write("Results from Logistic Regression Hypothesis Testing:")
 
     st.warning("""

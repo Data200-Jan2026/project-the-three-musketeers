@@ -1,3 +1,8 @@
+## Streamlit App
+
+**Live Demo:** [diabetes-prediction-practice.streamlit.app](https://diabetes-prediction-practice.streamlit.app/)
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/t6Jgh5fb)
 # Data 200 Applied Statistical Analysis  
 ## Project Work  
 **“Exploring Real-World Data through Statistical and Predictive Modeling”**
